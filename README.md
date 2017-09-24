@@ -1,2 +1,6 @@
 # go-by-example
-Go by example code and some nice program about go
+There are good code examples here.
+
+`Go by example` code and some nice programs about Golang
+
+More than `Go by example`
